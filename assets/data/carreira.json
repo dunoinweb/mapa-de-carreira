@@ -10,27 +10,27 @@
     "headline": "Marketing, Mobile e comunicação",
     "photo": "assets/images/David.jpg",
     "photoAlt": "Foto profissional de David Silva",
-    "summary": "Tenho experiência com supervisão de equipes, dashboard e atendimento ao cliente.",
+    "summary": "Tenho experiência com desenvolvimento mobile, comunicação, gestão de projetos e marketing. Participei de projetos que trouxeram soluções e me ajudaram a desenvolver meu portfólio, conectando com a área de tecnologia. Tenho foco em aprendizagem continua, colaboração e impacto positivo profissional.",
     "cvUrl": "#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "davidruanrodriguessilva@gmail.com",
+      "url": "mailto:davidruanrodriguessilva@gmail.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/davidrrsilva",
+      "url": "https://www.linkedin.com/in/davidrrsilva"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/dunoinweb",
+      "url": "https://github.com/dunoinweb"
     }
   ],
   "careerSteps": [
     {
       "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "description": "Consolidar fundamentos de desenvolvimento mobile, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
       "softSkills": [
         "Comunicacao clara para pedir ajuda e registrar aprendizados.",
         "Organizacao para estudar, praticar e acompanhar tarefas.",
