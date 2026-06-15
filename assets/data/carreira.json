@@ -1,16 +1,16 @@
 {
   "seo": {
     "title": "David Silva | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de David Silva, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "description": "Mapa de carreira de David Silva com foco em desenvolvimento mobile, criação de aplicativos e estratégias de produto e marketing digital.",
     "author": "David Silva",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
     "name": "David Silva",
-    "headline": "Marketing, Mobile e comunicação",
+    "headline": "Desenvolvimento Mobile, Produto Digital e Marketing de Apps",
     "photo": "assets/images/David.jpg",
     "photoAlt": "Foto profissional de David Silva",
-    "summary": "Tenho experiência com desenvolvimento mobile, comunicação, gestão de projetos e marketing. Participei de projetos que trouxeram soluções e me ajudaram a desenvolver meu portfólio, conectando com a área de tecnologia. Tenho foco em aprendizagem continua, colaboração e impacto positivo profissional.",
+    "summary": "Atuo em formação na área de desenvolvimento mobile com foco em Kotlin e criação de aplicativos reais. Possuo experiência com comunicação, marketing e organização de projetos, o que me permite ir além do código e construir produtos digitais com foco em experiência do usuário, utilidade e crescimento. Busco evolução contínua por meio da prática, desenvolvimento de projetos próprios e aplicação de estratégias de produto.",
     "cvUrl": "#"
   },
   "contacts": [
@@ -29,99 +29,159 @@
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento mobile, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Desenvolvedor Mobile Júnior",
+      "description": "Consolidar os fundamentos do desenvolvimento mobile com Kotlin, construindo aplicações funcionais e desenvolvendo consistência prática mesmo com rotina intensa.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Disciplina para estudar e desenvolver mesmo com pouco tempo disponível.",
+        "Organização para equilibrar trabalho, estudo e projetos pessoais.",
+        "Proatividade na resolução de problemas e busca por aprendizado."
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
+        "Kotlin",
+        "Android SDK",
+        "Jetpack Compose",
         "Git e GitHub",
-        "Acessibilidade"
+        "Fundamentos de UI"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Desenvolvedor Mobile Júnior+ (Construtor de Apps)",
+      "description": "Desenvolver aplicações mais completas com consumo de APIs, persistência de dados e melhoria na experiência do usuário.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Persistência para concluir projetos.",
+        "Capacidade de transformar ideias em funcionalidades reais.",
+        "Atenção a detalhes na construção de interfaces."
       ],
       "roadmap": [
-        "React",
-        "Node.js",
         "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "Retrofit",
+        "Firebase",
+        "Banco de dados local (Room)",
+        "Arquitetura MVVM"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Desenvolvedor + Produto Digital",
+      "description": "Evoluir de desenvolvedor para criador de produtos digitais, focando em experiência do usuário, valor entregue e publicação de aplicativos.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Visão de produto para criar apps úteis.",
+        "Empatia para entender necessidades do usuário.",
+        "Pensamento estratégico voltado a resultados."
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Clean Architecture",
+        "UX/UI básico",
+        "Publicação na Play Store",
+        "Firebase Analytics",
+        "Otimização de aplicações"
+      ]
+    },
+    {
+      "title": "Criador de Apps e Estratégia de Crescimento",
+      "description": "Desenvolver aplicações com foco em resolução de problemas reais, validação com usuários e aplicação de estratégias de crescimento.",
+      "softSkills": [
+        "Mentalidade empreendedora.",
+        "Capacidade de adaptação com base em feedback.",
+        "Foco em melhoria contínua."
+      ],
+      "roadmap": [
+        "Validação de ideias",
+        "Landing pages",
+        "Copywriting",
+        "ASO (App Store Optimization)",
+        "Aquisição de usuários"
+      ]
+    },
+    {
+      "title": "Evolução para Independência e Monetização",
+      "description": "Escalar aplicações, aplicar estratégias de monetização e construir fontes de renda através de produtos digitais.",
+      "softSkills": [
+        "Visão de longo prazo.",
+        "Análise de métricas e tomada de decisão.",
+        "Consistência e resiliência."
+      ],
+      "roadmap": [
+        "Monetização (ads e assinaturas)",
+        "Métricas de produto",
+        "Growth básico",
+        "Automação",
+        "Escala de aplicativos"
       ]
     }
   ],
   "skillGroups": [
     {
-      "title": "Frontend",
+      "title": "Desenvolvimento Mobile",
       "skills": [
         {
-          "name": "HTML, CSS e JavaScript",
-          "level": 85
+          "name": "Kotlin",
+          "level": 65
         },
         {
-          "name": "React",
-          "level": 70
+          "name": "Android SDK",
+          "level": 60
+        },
+        {
+          "name": "Jetpack Compose",
+          "level": 50
+        },
+        {
+          "name": "APIs REST",
+          "level": 50
         }
       ]
     },
     {
-      "title": "Backend e dados",
+      "title": "Produto e Experiência",
       "skills": [
         {
-          "name": "Node.js e APIs",
-          "level": 65
+          "name": "UX básico",
+          "level": 45
         },
         {
-          "name": "SQL",
-          "level": 60
+          "name": "Design funcional",
+          "level": 50
+        },
+        {
+          "name": "Experiência do usuário",
+          "level": 45
+        }
+      ]
+    },
+    {
+      "title": "Marketing e Crescimento",
+      "skills": [
+        {
+          "name": "Copywriting",
+          "level": 40
+        },
+        {
+          "name": "ASO",
+          "level": 35
+        },
+        {
+          "name": "Estratégia de apps",
+          "level": 45
         }
       ]
     }
   ],
   "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "GitHub",
+    "Notion",
+    "Trello",
+    "Pomodoro",
+    "Organização",
+    "Produtividade"
   ],
   "languages": [
     {
-      "name": "Portugues",
+      "name": "Português",
       "level": "Nativo"
     },
     {
-      "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
+      "name": "Inglês",
+      "level": "Intermediário técnico"
     }
   ]
 }
