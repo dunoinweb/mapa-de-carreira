@@ -43,8 +43,6 @@
         "Git e GitHub",
         "UI básica",
         "Jetpack Compose"
-
-
       ]
     },
     {
