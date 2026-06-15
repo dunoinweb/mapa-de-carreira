@@ -1,16 +1,15 @@
 {
   "seo": {
-    "title": "David Silva | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de David Silva com foco em desenvolvimento mobile, criação de aplicativos e estratégias de produto e marketing digital.",
+    "title": "David Silva | Comunicação, Marketing e Conteúdo Visual",
+    "description": "Mapa de carreira focado em marketing, comunicação e produção de conteúdo visual com apoio de tecnologia.",
     "author": "David Silva",
-    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+    "canonicalUrl": "#"
   },
   "profile": {
     "name": "David Silva",
-    "headline": "Desenvolvimento Mobile, Produto Digital e Marketing de Apps",
+    "headline": "Marketing, Comunicação e Conteúdo Visual",
     "photo": "assets/images/David.jpg",
-    "photoAlt": "Foto profissional de David Silva",
-    "summary": "Atuo em formação na área de desenvolvimento mobile com foco em Kotlin e criação de aplicativos reais. Possuo experiência com comunicação, marketing e organização de projetos, o que me permite ir além do código e construir produtos digitais com foco em experiência do usuário, utilidade e crescimento. Busco evolução contínua por meio da prática, desenvolvimento de projetos próprios e aplicação de estratégias de produto.",
+    "summary": "Atuo em desenvolvimento profissional nas áreas de marketing, comunicação e criação de conteúdo visual. Tenho interesse em entender comportamento de público, construir narrativas e produzir conteúdos estratégicos que gerem valor e conexão. Utilizo a tecnologia como ferramenta para potencializar resultados e ampliar o alcance de projetos.",
     "cvUrl": "#"
   },
   "contacts": [
@@ -29,150 +28,124 @@
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedor Mobile Júnior",
-      "description": "Consolidar os fundamentos do desenvolvimento mobile com Kotlin, construindo aplicações funcionais e desenvolvendo consistência prática mesmo com rotina intensa.",
+      "title": "Base em Comunicação e Conteúdo",
+      "description": "Desenvolver fundamentos de comunicação digital, produção de conteúdo e linguagem adequada para diferentes plataformas.",
       "softSkills": [
-        "Disciplina para estudar e desenvolver mesmo com pouco tempo disponível.",
-        "Organização para equilibrar trabalho, estudo e projetos pessoais.",
-        "Proatividade na resolução de problemas e busca por aprendizado."
+        "Clareza na comunicação",
+        "Organização de ideias",
+        "Consistência na produção",
+        "Curiosidade para aprendizado contínuo"
       ],
       "roadmap": [
-        "Kotlin",
-        "Android SDK",
-        "Jetpack Compose",
-        "Git e GitHub",
-        "Fundamentos de UI"
+        "Comunicação digital",
+        "Copywriting básico",
+        "Redes sociais",
+        "Fundamentos de marketing",
+        "Introdução à fotografia"
       ]
     },
     {
-      "title": "Desenvolvedor Mobile Júnior+ (Construtor de Apps)",
-      "description": "Desenvolver aplicações mais completas com consumo de APIs, persistência de dados e melhoria na experiência do usuário.",
+      "title": "Criação de Conteúdo Estratégico",
+      "description": "Produzir conteúdos com intenção, focando em narrativa, posicionamento e construção de presença digital.",
       "softSkills": [
-        "Persistência para concluir projetos.",
-        "Capacidade de transformar ideias em funcionalidades reais.",
-        "Atenção a detalhes na construção de interfaces."
+        "Criatividade aplicada",
+        "Pensamento estratégico",
+        "Disciplina na criação",
+        "Capacidade de adaptação"
       ],
       "roadmap": [
-        "APIs REST",
-        "Retrofit",
-        "Firebase",
-        "Banco de dados local (Room)",
-        "Arquitetura MVVM"
+        "Storytelling",
+        "Criação de conteúdo para redes",
+        "Edição de imagem",
+        "Fotografia prática",
+        "Planejamento de conteúdo"
       ]
     },
     {
-      "title": "Desenvolvedor + Produto Digital",
-      "description": "Evoluir de desenvolvedor para criador de produtos digitais, focando em experiência do usuário, valor entregue e publicação de aplicativos.",
+      "title": "Marketing e Crescimento",
+      "description": "Aplicar estratégias de crescimento, entender comportamento do público e melhorar o desempenho de conteúdos.",
       "softSkills": [
-        "Visão de produto para criar apps úteis.",
-        "Empatia para entender necessidades do usuário.",
-        "Pensamento estratégico voltado a resultados."
+        "Análise de dados",
+        "Tomada de decisão",
+        "Foco em resultados",
+        "Observação de comportamento"
       ],
       "roadmap": [
-        "Clean Architecture",
-        "UX/UI básico",
-        "Publicação na Play Store",
-        "Firebase Analytics",
-        "Otimização de aplicações"
+        "Tráfego orgânico",
+        "Engajamento",
+        "Copywriting avançado",
+        "Métricas de conteúdo",
+        "Funil de marketing"
       ]
     },
     {
-      "title": "Criador de Apps e Estratégia de Crescimento",
-      "description": "Desenvolver aplicações com foco em resolução de problemas reais, validação com usuários e aplicação de estratégias de crescimento.",
+      "title": "Posicionamento Profissional",
+      "description": "Transformar habilidades em valor de mercado, atuando com projetos reais e construção de portfólio.",
       "softSkills": [
-        "Mentalidade empreendedora.",
-        "Capacidade de adaptação com base em feedback.",
-        "Foco em melhoria contínua."
+        "Comunicação profissional",
+        "Responsabilidade",
+        "Relacionamento com clientes",
+        "Autonomia"
       ],
       "roadmap": [
-        "Validação de ideias",
-        "Landing pages",
-        "Copywriting",
-        "ASO (App Store Optimization)",
-        "Aquisição de usuários"
+        "Portfólio",
+        "Gestão de projetos",
+        "Marca pessoal",
+        "Produção profissional",
+        "Estratégia de posicionamento"
       ]
     },
     {
-      "title": "Evolução para Independência e Monetização",
-      "description": "Escalar aplicações, aplicar estratégias de monetização e construir fontes de renda através de produtos digitais.",
+      "title": "Especialização e Autoridade",
+      "description": "Desenvolver estilo próprio, consistência e reconhecimento na área de atuação.",
       "softSkills": [
-        "Visão de longo prazo.",
-        "Análise de métricas e tomada de decisão.",
-        "Consistência e resiliência."
+        "Visão de longo prazo",
+        "Consistência",
+        "Autenticidade",
+        "Pensamento crítico"
       ],
       "roadmap": [
-        "Monetização (ads e assinaturas)",
-        "Métricas de produto",
-        "Growth básico",
-        "Automação",
-        "Escala de aplicativos"
+        "Branding pessoal",
+        "Conteúdo avançado",
+        "Tendências de mercado",
+        "Networking",
+        "Escala de presença digital"
       ]
     }
   ],
   "skillGroups": [
     {
-      "title": "Desenvolvimento Mobile",
+      "title": "Comunicação e Conteúdo",
       "skills": [
-        {
-          "name": "Kotlin",
-          "level": 65
-        },
-        {
-          "name": "Android SDK",
-          "level": 60
-        },
-        {
-          "name": "Jetpack Compose",
-          "level": 50
-        },
-        {
-          "name": "APIs REST",
-          "level": 50
-        }
+        { "name": "Comunicação escrita", "level": 70 },
+        { "name": "Storytelling", "level": 60 },
+        { "name": "Criação de conteúdo", "level": 65 }
       ]
     },
     {
-      "title": "Produto e Experiência",
+      "title": "Visual e Fotografia",
       "skills": [
-        {
-          "name": "UX básico",
-          "level": 45
-        },
-        {
-          "name": "Design funcional",
-          "level": 50
-        },
-        {
-          "name": "Experiência do usuário",
-          "level": 45
-        }
+        { "name": "Fotografia", "level": 55 },
+        { "name": "Composição visual", "level": 60 },
+        { "name": "Edição de imagem", "level": 50 }
       ]
     },
     {
-      "title": "Marketing e Crescimento",
+      "title": "Marketing",
       "skills": [
-        {
-          "name": "Copywriting",
-          "level": 40
-        },
-        {
-          "name": "ASO",
-          "level": 35
-        },
-        {
-          "name": "Estratégia de apps",
-          "level": 45
-        }
+        { "name": "Copywriting", "level": 55 },
+        { "name": "Estratégia digital", "level": 60 },
+        { "name": "Análise de métricas", "level": 45 }
       ]
     }
   ],
   "otherSkills": [
-    "GitHub",
     "Notion",
-    "Trello",
-    "Pomodoro",
     "Organização",
-    "Produtividade"
+    "Planejamento",
+    "Criatividade",
+    "Comunicação",
+    "Consistência"
   ],
   "languages": [
     {
@@ -181,7 +154,7 @@
     },
     {
       "name": "Inglês",
-      "level": "Intermediário técnico"
+      "level": "Intermediário"
     }
   ]
 }
