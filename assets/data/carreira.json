@@ -151,10 +151,15 @@
     {
       "name": "Português",
       "level": "Nativo"
-    },
+    }
+  ],
+  "projects": [
     {
-      "name": "Inglês",
-      "level": "Intermediário"
+      "title": "Perfil de Conteúdo no Instagram",
+      "description": "Criação de conteúdo com foco em comunicação clara e consistência.",
+      "type": "Conteúdo",
+      "result": "Melhoria na comunicação e disciplina na criação.",
+      "link": "#"
     }
   ]
 }
