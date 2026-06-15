@@ -39,6 +39,25 @@ fetch("./assets/data/carreira.json")
       career.appendChild(div);
     });
 
+    // PROJETOS
+    const projectsDiv = document.getElementById("projects");
+
+    if (data.projects) {
+      data.projects.forEach(project => {
+        const div = document.createElement("div");
+
+        div.innerHTML = `
+          <h3>${project.title}</h3>
+          <p>${project.description}</p>
+
+          <strong>Área:</strong> ${project.type}<br>
+          <strong>Resultado:</strong> ${project.result}
+        `;
+
+        projectsDiv.appendChild(div);
+      });
+    }
+
     // HABILIDADES
     const skills = document.getElementById("skills");
 
@@ -79,22 +98,7 @@ fetch("./assets/data/carreira.json")
       languages.appendChild(li);
     });
 
-    // PROJETOS
-const projectsDiv = document.getElementById("projects");
-
-if (data.projects) {
-  data.projects.forEach(project => {
-    const div = document.createElement("div");
-
-    div.innerHTML = `
-      <h3>${project.title}</h3>
-      <p>${project.description}</p>
-
-      <strong>Área:</strong> ${project.type}<br>
-      <strong>Resultado:</strong> ${project.result}
-    `;
-
-    projectsDiv.appendChild(div);
+  })
+  .catch(error => {
+    console.error("Erro ao carregar JSON:", error);
   });
-}
-``
