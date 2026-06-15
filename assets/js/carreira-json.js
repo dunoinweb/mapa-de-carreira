@@ -9,7 +9,7 @@
     "name": "David Ruan Rodrigues Silva",
     "headline": "Desenvolvedor Mobile Kotlin em formação | Criador de Apps e Produtos Digitais",
     "summary": "Estudante de desenvolvimento mobile com foco em Kotlin, construção de aplicativos reais e estratégias de crescimento digital. Busco evoluir além do código, criando produtos úteis e escaláveis que resolvem problemas reais.",
-    "photo": "assets/images/profile.png",
+    "photo": "assets/images/David.png",
     "photoAlt": "Foto de David Ruan",
     "cvUrl": "assets/docs/cv.pdf"
   },
