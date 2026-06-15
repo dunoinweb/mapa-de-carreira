@@ -1,13 +1,17 @@
-fetch("assets/data/carreira.json")
-  .then(res => res.json())
+fetch("./assets/data/carreira.json")
+  .then(response => {
+    if (!response.ok) {
+      throw new Error("Erro ao carregar JSON");
+    }
+    return response.json();
+  })
   .then(data => {
+    console.log("JSON carregado:", data);
 
-    // PROFILE
     document.getElementById("name").textContent = data.profile.name;
     document.getElementById("headline").textContent = data.profile.headline;
     document.getElementById("summary").textContent = data.profile.summary;
 
-    // CAREER
     const careerDiv = document.getElementById("career");
 
     data.careerSteps.forEach(step => {
@@ -17,21 +21,16 @@ fetch("assets/data/carreira.json")
         <h3>${step.title}</h3>
         <p>${step.description}</p>
 
-        <strong>Soft Skills:</strong>
-        <ul>
-          ${step.softSkills.map(s => `<li>${s}</li>`).join("")}
-        </ul>
+        <b>Soft Skills:</b>
+        <ul>${step.softSkills.map(s => `<li>${s}</li>`).join("")}</ul>
 
-        <strong>Roadmap:</strong>
-        <ul>
-          ${step.roadmap.map(r => `<li>${r}</li>`).join("")}
-        </ul>
+        <b>Roadmap:</b>
+        <ul>${step.roadmap.map(r => `<li>${r}</li>`).join("")}</ul>
       `;
 
       careerDiv.appendChild(block);
     });
 
-    // SKILLS
     const skillsDiv = document.getElementById("skills");
 
     data.skillGroups.forEach(group => {
@@ -47,7 +46,6 @@ fetch("assets/data/carreira.json")
       skillsDiv.appendChild(div);
     });
 
-    // LANGUAGES
     const langList = document.getElementById("languages");
 
     data.languages.forEach(lang => {
@@ -56,4 +54,13 @@ fetch("assets/data/carreira.json")
       langList.appendChild(li);
     });
 
+  })
+  .catch(error => {
+    console.error("ERRO:", error);
+
+    document.body.innerHTML += `
+      <p style="color:red;">
+        ❌ Erro ao carregar JSON. Verifique o caminho do arquivo ou use Live Server.
+      </p>
+    `;
   });
