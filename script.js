@@ -85,8 +85,6 @@ const projectsDiv = document.getElementById("projects");
 data.projects.forEach(project => {
   const div = document.createElement("div");
 
-  div.style.marginBottom = "20px";
-
   div.innerHTML = `
     <h3>${project.title}</h3>
     <p>${project.description}</p>
