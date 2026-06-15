@@ -147,32 +147,22 @@
     "Comunicação",
     "Consistência"
   ],
+  {
+  ...
   "languages": [
     {
       "name": "Português",
       "level": "Nativo"
     }
   ],
+
   "projects": [
     {
-    "title": "Produção de Conteúdo para Redes Sociais",
-    "description": "Criação de conteúdo voltado para comunicação digital, explorando clareza, consistência e entrega de valor.",
-    "type": "Conteúdo",
-    "result": "Melhoria na comunicação e desenvolvimento de presença digital.",
-    "link": "https://instagram.com/dunoinweb"
-  },
-  {
-    "title": "Fotografia Urbana",
-    "description": "Registro de cenas urbanas com foco em composição, luz natural e enquadramento.",
-    "type": "Fotografia",
-    "result": "Desenvolvimento de percepção visual e narrativa através de imagens.",
-    "link": "https://instagram.com/dunoinweb"
-  },
-  {
-    "title": "Exploração de Linguagem Visual",
-    "description": "Experimentos com fotografia e estética visual buscando desenvolver identidade própria.",
-    "type": "Visual",
-    "result": "Evolução da criatividade e construção de estilo.",
-    "link": "https://instagram.com/dunoinweb"
-  }
-]
+      "title": "Fotografia Urbana",
+      "description": "Registro de cenas urbanas com foco em composição e luz.",
+      "type": "Fotografia",
+      "result": "Desenvolvimento de percepção visual.",
+      "link": "https://instagram.com/dunoinweb"
+    }
+  ]
+}
