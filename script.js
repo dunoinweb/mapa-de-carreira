@@ -82,16 +82,19 @@ fetch("./assets/data/carreira.json")
     // PROJETOS
 const projectsDiv = document.getElementById("projects");
 
-data.projects.forEach(project => {
-  const div = document.createElement("div");
+if (data.projects) {
+  data.projects.forEach(project => {
+    const div = document.createElement("div");
 
-  div.innerHTML = `
-    <h3>${project.title}</h3>
-    <p>${project.description}</p>
+    div.innerHTML = `
+      <h3>${project.title}</h3>
+      <p>${project.description}</p>
 
-    <strong>Área:</strong> ${project.type}<br>
-    <strong>Resultado:</strong> ${project.result}
-  `;
+      <strong>Área:</strong> ${project.type}<br>
+      <strong>Resultado:</strong> ${project.result}
+    `;
 
-  projectsDiv.appendChild(div);
-});
+    projectsDiv.appendChild(div);
+  });
+}
+``
