@@ -37,18 +37,12 @@
       ]
     },
     {
-      "title": "Conteúdo Estratégico",
-      "description": "Criar conteúdos com intenção e narrativa.",
-      "softSkills": [
-        "Criatividade",
-        "Pensamento estratégico"
-      ],
-      "roadmap": [
-        "Storytelling",
-        "Planejamento de conteúdo",
-        "Edição de imagem"
-      ]
-    }
+  "title": "Criação de Conteúdo Estratégico",
+  "description": "Produzir conteúdos com intenção de atingir o público jovem",
+  "image": "assets/images/foto1.jpg",
+  "softSkills": [...],
+  "roadmap": [...]
+}
   ],
 
   "skillGroups": [
