@@ -102,3 +102,20 @@ fetch("./assets/data/carreira.json")
   .catch(error => {
     console.error("Erro ao carregar JSON:", error);
   });
+
+// ANIMAÇÃO AO SCROLL
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("show");
+    }
+  });
+});
+
+// aplica em todas as seções
+const elements = document.querySelectorAll(".section, .career-item");
+
+elements.forEach((el) => {
+  el.classList.add("hidden");
+  observer.observe(el);
+});
