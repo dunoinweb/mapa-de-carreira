@@ -1,165 +1,92 @@
 {
-  "seo": {
-    "title": "David Silva | Comunicação, Marketing e Conteúdo Visual",
-    "description": "Mapa de carreira focado em marketing, comunicação e produção de conteúdo visual com apoio de tecnologia.",
-    "author": "David Silva",
-    "canonicalUrl": "#"
-  },
   "profile": {
     "name": "David Silva",
     "headline": "Marketing, Comunicação e Conteúdo Visual",
     "photo": "assets/images/David.jpg",
-    "summary": "Atuo em desenvolvimento profissional nas áreas de marketing, comunicação e criação de conteúdo visual. Tenho interesse em entender comportamento de público, construir narrativas e produzir conteúdos estratégicos que gerem valor e conexão. Utilizo a tecnologia como ferramenta para potencializar resultados e ampliar o alcance de projetos.",
-    "cvUrl": "#"
+    "summary": "Atuo em marketing, comunicação e produção de conteúdo visual. Busco entender o comportamento do público e criar conteúdos que gerem valor, conexão e resultado."
   },
+
   "contacts": [
     {
-      "label": "davidruanrodriguessilva@gmail.com",
+      "label": "Email",
       "url": "mailto:davidruanrodriguessilva@gmail.com"
     },
     {
-      "label": "linkedin.com/in/davidrrsilva",
+      "label": "LinkedIn",
       "url": "https://www.linkedin.com/in/davidrrsilva"
     },
     {
-      "label": "github.com/dunoinweb",
+      "label": "GitHub",
       "url": "https://github.com/dunoinweb"
     }
   ],
+
   "careerSteps": [
     {
-      "title": "Base em Comunicação e Conteúdo",
-      "description": "Desenvolver fundamentos de comunicação digital, produção de conteúdo e linguagem adequada para diferentes plataformas.",
+      "title": "Base em Comunicação",
+      "description": "Aprender fundamentos de comunicação e conteúdo digital.",
       "softSkills": [
-        "Clareza na comunicação",
-        "Organização de ideias",
-        "Consistência na produção",
-        "Curiosidade para aprendizado contínuo"
+        "Comunicação clara",
+        "Organização",
+        "Consistência"
       ],
       "roadmap": [
         "Comunicação digital",
         "Copywriting básico",
-        "Redes sociais",
-        "Fundamentos de marketing",
-        "Introdução à fotografia"
+        "Redes sociais"
       ]
     },
     {
-      "title": "Criação de Conteúdo Estratégico",
-      "description": "Produzir conteúdos com intenção, focando em narrativa, posicionamento e construção de presença digital.",
+      "title": "Conteúdo Estratégico",
+      "description": "Criar conteúdos com intenção e narrativa.",
       "softSkills": [
-        "Criatividade aplicada",
-        "Pensamento estratégico",
-        "Disciplina na criação",
-        "Capacidade de adaptação"
+        "Criatividade",
+        "Pensamento estratégico"
       ],
       "roadmap": [
         "Storytelling",
-        "Criação de conteúdo para redes",
-        "Edição de imagem",
-        "Fotografia prática",
-        "Planejamento de conteúdo"
-      ]
-    },
-    {
-      "title": "Marketing e Crescimento",
-      "description": "Aplicar estratégias de crescimento, entender comportamento do público e melhorar o desempenho de conteúdos.",
-      "softSkills": [
-        "Análise de dados",
-        "Tomada de decisão",
-        "Foco em resultados",
-        "Observação de comportamento"
-      ],
-      "roadmap": [
-        "Tráfego orgânico",
-        "Engajamento",
-        "Copywriting avançado",
-        "Métricas de conteúdo",
-        "Funil de marketing"
-      ]
-    },
-    {
-      "title": "Posicionamento Profissional",
-      "description": "Transformar habilidades em valor de mercado, atuando com projetos reais e construção de portfólio.",
-      "softSkills": [
-        "Comunicação profissional",
-        "Responsabilidade",
-        "Relacionamento com clientes",
-        "Autonomia"
-      ],
-      "roadmap": [
-        "Portfólio",
-        "Gestão de projetos",
-        "Marca pessoal",
-        "Produção profissional",
-        "Estratégia de posicionamento"
-      ]
-    },
-    {
-      "title": "Especialização e Autoridade",
-      "description": "Desenvolver estilo próprio, consistência e reconhecimento na área de atuação.",
-      "softSkills": [
-        "Visão de longo prazo",
-        "Consistência",
-        "Autenticidade",
-        "Pensamento crítico"
-      ],
-      "roadmap": [
-        "Branding pessoal",
-        "Conteúdo avançado",
-        "Tendências de mercado",
-        "Networking",
-        "Escala de presença digital"
+        "Planejamento de conteúdo",
+        "Edição de imagem"
       ]
     }
   ],
+
   "skillGroups": [
     {
-      "title": "Comunicação e Conteúdo",
+      "title": "Comunicação",
       "skills": [
         { "name": "Comunicação escrita", "level": 70 },
-        { "name": "Storytelling", "level": 60 },
-        { "name": "Criação de conteúdo", "level": 65 }
-      ]
-    },
-    {
-      "title": "Visual e Fotografia",
-      "skills": [
-        { "name": "Fotografia", "level": 55 },
-        { "name": "Composição visual", "level": 60 },
-        { "name": "Edição de imagem", "level": 50 }
+        { "name": "Storytelling", "level": 60 }
       ]
     },
     {
       "title": "Marketing",
       "skills": [
         { "name": "Copywriting", "level": 55 },
-        { "name": "Estratégia digital", "level": 60 },
-        { "name": "Análise de métricas", "level": 45 }
+        { "name": "Estratégia digital", "level": 60 }
       ]
     }
   ],
+
   "otherSkills": [
     "Notion",
     "Organização",
-    "Planejamento",
-    "Criatividade",
-    "Comunicação",
-    "Consistência"
+    "Criatividade"
   ],
+
   "languages": [
     {
       "name": "Português",
       "level": "Nativo"
     }
   ],
+
   "projects": [
     {
       "title": "Fotografia Urbana",
       "description": "Registro de cenas urbanas com foco em composição e luz.",
       "type": "Fotografia",
-      "result": "Desenvolvimento de percepção visual.",
-      "link": "https://instagram.com/dunoinweb"
+      "result": "Evolução da percepção visual"
     }
   ]
 }
