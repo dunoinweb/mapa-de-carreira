@@ -120,6 +120,23 @@
     color: #34d399;
   }
 
+    .section p {
+  line-height: 1.5;
+}
+
+    
+/* ANIMAÇÃO SCROLL */
+.hidden {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.6s ease;
+}
+
+.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 </style>
 
 </head>
@@ -134,7 +151,7 @@
       <img id="profile-photo" class="profile-img">
       
       <div>
-        <h1 id="name"></h1>
+        <h1 id="name" style="font-size:28px;"></h1>
         <p id="headline" class="headline"></p>
 
         <div id="contact-list" class="contacts"></div>
