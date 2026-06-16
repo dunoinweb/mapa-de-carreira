@@ -25,16 +25,19 @@ fetch("./assets/data/carreira.json")
       const div = document.createElement("div");
       div.className = "career-item";
 
-      div.innerHTML = `
-        <h3>${step.title}</h3>
-        <p>${step.description}</p>
+      
+div.innerHTML = `
+  <h3>${step.title}</h3>
+  <p>${step.description}</p>
 
-        <strong>Competências comportamentais</strong>
-        <ul>${step.softSkills.map(s => `<li>${s}</li>`).join("")}</ul>
+  ${step.image ? `<img src="${step.image}" class="career-img">` : ""}
 
-        <strong>Trilha de desenvolvimento</strong>
-        <ul>${step.roadmap.map(r => `<li>${r}</li>`).join("")}</ul>
-      `;
+  <strong>Competências comportamentais</strong>
+  <ul>${step.softSkills.map(s => `<li>${s}</li>`).join("")}</ul>
+
+  <strong>Trilha de desenvolvimento</strong>
+  <ul>${step.roadmap.map(r => `<li>${r}</li>`).join("")}</ul>
+`;
 
       career.appendChild(div);
     });
