@@ -40,8 +40,16 @@
   "title": "Criação de Conteúdo Estratégico",
   "description": "Produzir conteúdos com intenção de atingir o público jovem",
   "image": "assets/images/foto1.jpg",
-  "softSkills": [...],
-  "roadmap": [...]
+  "softSkills": [
+    "Comunicação",
+    "Storytelling",
+    "Comunicação audiovisual"
+  ],
+  "roadmap": [
+    "Comunicação digital",
+    "Copywriting básico",
+    "Redes sociais"
+  ]
 }
   ],
 
